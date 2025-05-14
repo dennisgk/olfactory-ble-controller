@@ -14,9 +14,10 @@
 7. Enter the following command to monitor the device: `idf.py monitor`.
 
 ### How to Connect
-1. Install Python.
-2. Open a powershell window in the `py-olfactory-ble-controller` directory.
-3. Enter the command `python -m venv venv` to make a virtual environment in the directory.
-4. Enter the command `.\venv\Scripts\activate.bat` to enter the virtual environment.
-5. Enter the command `pip install -r requirements.txt` to install the required packages.
-6. Enter the command `python main.py` to run the program.
+1. If you do not want to build this manually, use the pre-compiled Release provided on github.
+2. Install Python.
+3. Open a powershell window in the `py-olfactory-ble-controller` directory.
+4. Enter the command `python -m venv venv` to make a virtual environment in the directory.
+5. Enter the command `.\venv\Scripts\activate.bat` to enter the virtual environment.
+6. Enter the command `pip install -r requirements.txt` to install the required packages.
+7. Enter the command `python main.py` to run the program.
