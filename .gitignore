@@ -1,0 +1,7 @@
+__pycache__/
+
+/esp-olfactory-ble-controller/build/
+/py-olfactory-ble-controller/build/
+/py-olfactory-ble-controller/dist/
+/py-olfactory-ble-controller/venv/
+/py-olfactory-ble-controller/main.spec
